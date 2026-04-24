@@ -1,4 +1,4 @@
-# 💃 WCS AI Coach
+# 🕺💃 WCS AI Coach
 
 An AI-powered **West Coast Swing coaching assistant** that analyzes dancer-described issues and generates structured, actionable feedback using a **Retrieval-Augmented Generation (RAG)** pipeline.
 
